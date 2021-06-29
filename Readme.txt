@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for Visiting my Repo!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Fully Responsive Portfolio !!!
+For more projects commit it!!
+
+Coded By: A V BALAJEE
