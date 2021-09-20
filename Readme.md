@@ -1,5 +1,5 @@
 # <a href="https://balajee-av.netlify.app"> Balajee's Portfolio </a>
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/balajeeav/LGMVIP-WebDev)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 ![My Portfolio](https://github.com/balajeeav/avb.github.io/blob/master/My%20Portfolio.JPG)
 # Languages and Tools Used:
